@@ -7,5 +7,6 @@ void main() {
   Map<String, int> ages = {"hatem": 20, "nasser": 46};
   print(mydata);
   print(ages);
+  
 
 }
